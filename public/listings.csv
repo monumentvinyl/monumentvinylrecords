@@ -1,4 +1,4 @@
-Action,ItemID,Category,Title,Description,PictureURL,URL to eBay listing
+Action,ItemID,Category,Title,Description,PictureURL,URL to eBay listing,
 Add,,Music > Vinyl Records,Fleetwood Mac - Rumours (LP, 1977),"Classic rock vinyl record, tested and plays perfectly.",,https://www.ebay.com/itm/example1
-Add,,DVDs & Movies,The Beatles Anthology (DVD Set, 2003),"Complete DVD set, discs are in excellent condition with case.",,https://www.ebay.com/itm/example2
+Add,MVR0000001,DVDs & Movies,Paris Je T'aime (DVD) - Blockbuster Video Nostalgia,Movie about Paris,https://i.ebayimg.com/images/g/H8gAAeSw38xo-WeB/s-l1600.jpg,https://ebay.us/m/6u9qCB,https://ebay.us/m/6u9qCB
 Add,,Music > Vinyl Records,Pink Floyd - The Wall (2xLP, Gatefold),"Original pressing, cover VG+, vinyl EX.",,https://www.ebay.com/itm/example3
