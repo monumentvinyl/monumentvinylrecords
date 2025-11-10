@@ -7,8 +7,9 @@ export default function Header(){
           <h2 style={{margin:0}}>Monument Vinyl</h2>
           <nav style={{marginTop:6}}>
             <a href="/" style={{marginRight:12}}>Home</a>
+            <a href="/Blog" style={{marginRight:12}}>Blog</a>
             <a href="https://www.ebay.com/usr/monumentvinylrecords" style={{marginRight:12}}>eBay Store</a>
-            <a href=" www.youtube.com/@MonumentVinylRecords" target="_blank" rel="noreferrer" style={{marginRight:12}}>YouTube</a>
+            <a href="https://www.youtube.com/@MonumentVinylRecords" target="_blank" rel="noreferrer" style={{marginRight:12}}>YouTube</a>
             <a href="https://www.instagram.com/monumentvinylrecords/" target="_blank" rel="noreferrer" style={{marginRight:12}}>Instagram</a>
             <a href="https://x.com/MonumentVinyl" target="_blank" rel="noreferrer">X</a>
           </nav>
