@@ -33,8 +33,9 @@ export default function Home() {
     <div>
       <Header />
       <main style={{padding:'1rem', maxWidth:960, margin:'0 auto'}}>
-        <h1>Monument Vinyl — Featured Listings</h1>
-        <p>Listings are read from <code>/public/listings.csv</code>. To update permanently, replace that file in your repo.</p>
+        <h1>Monument Vinyl Records — Featured Listings</h1>
+        <p>Check out featured listings below. We have items available both on our eBay store and through major retailers. Follow the links below.</p>
+        <p>If you don't see a specific item that you're looking for, you can contact us via email at monumentvinyl@gmail.com our through our Social Media accounts linked above.</p>
         <Listings items={listings} />
       </main>
       <Footer />
