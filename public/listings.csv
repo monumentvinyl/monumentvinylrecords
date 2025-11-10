@@ -1,7 +1,7 @@
-Action,ItemID,Category,Title,Description,PictureURL,URL to eBay listing
-Add,MVR0000010,Vinyl Record,"Liszt: Sonate H-Moll Schuman, Sonate G-Moll Vinyl LP Martha Argerich Piano",,https://i.ebayimg.com/images/g/EH0AAeSwRCxo6q2w/s-l960.jpg,https://www.ebay.com/itm/205779253141
-Add,MVR0000011,Vinyl Record,South Pacific 1958 Soundtrack LP RCA Vintage Vinyl Record,,https://i.ebayimg.com/images/g/u9oAAeSwXZlo6q5P/s-l960.jpg,https://www.ebay.com/itm/205779255173
-Add,MVR0000012,Vinyl Record,Man of La Mancha Original Soundtrack Vinyl LP Record Album,,https://i.ebayimg.com/images/g/8xMAAeSwb69o6yRB/s-l960.jpg,https://www.ebay.com/itm/205779957771
-Add,MVR0000013,DVDs & Movies,"Camelot (Original Broadway Cast Recording), Vintage 1960 Musical Vinyl Album LP",,https://i.ebayimg.com/images/g/NqwAAeSwkJRo7C--/s-l960.jpg,https://www.ebay.com/itm/205781388639
-Add,MVR0000014,DVDs & Movies,"Saint-Saens ""Symphony No. 3 in C Minor"" [London Records STS 15154] Vinyl LP",,https://i.ebayimg.com/images/g/OsAAAeSwkJRo7DCB/s-l960.jpg,https://www.ebay.com/itm/205781396272
-Add,MVR0000004,DVDs & Movies,The Great Race 1991 LA Dodgers (factory sealed),,https://i.ebayimg.com/images/g/-2AAAeSwqPlo4VTT/s-l960.jpg,https://www.ebay.com/itm/205764453394
+Action,ItemID,Category,Title,Description,PictureURL,URL to eBay listing,
+Add,,Music > Vinyl Records,"Liszt: Sonate H-Moll Schuman, Sonate G-Moll Vinyl LP Martha Argerich Piano",,https://i.ebayimg.com/images/g/EH0AAeSwRCxo6q2w/s-l960.jpg,https://www.ebay.com/itm/205779253141,https://www.ebay.com/itm/205779253141
+Add,,Music > Vinyl Records,South Pacific 1958 Soundtrack LP RCA Vintage Vinyl Record,,https://i.ebayimg.com/images/g/u9oAAeSwXZlo6q5P/s-l960.jpg,https://www.ebay.com/itm/205779255173,https://www.ebay.com/itm/205779255173
+Add,,Music > Vinyl Records,Man of La Mancha Original Soundtrack Vinyl LP Record Album,,https://i.ebayimg.com/images/g/8xMAAeSwb69o6yRB/s-l960.jpg,https://www.ebay.com/itm/205779957771,https://www.ebay.com/itm/205779957771
+Add,,DVDs & Movies,"Camelot (Original Broadway Cast Recording), Vintage 1960 Musical Vinyl Album LP",,https://i.ebayimg.com/images/g/NqwAAeSwkJRo7C--/s-l960.jpg,https://www.ebay.com/itm/205781388639,https://www.ebay.com/itm/205781388639
+Add,,DVDs & Movies,"Saint-Saens ""Symphony No. 3 in C Minor"" [London Records STS 15154] Vinyl LP",,https://i.ebayimg.com/images/g/OsAAAeSwkJRo7DCB/s-l960.jpg,https://www.ebay.com/itm/205781396272,https://www.ebay.com/itm/205781396272
+Add,,DVDs & Movies,The Great Race 1991 LA Dodgers (factory sealed),,https://i.ebayimg.com/images/g/-2AAAeSwqPlo4VTT/s-l960.jpg,https://www.ebay.com/itm/205764453394,https://www.ebay.com/itm/205764453394
